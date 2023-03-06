@@ -5,6 +5,9 @@ IDE used:
 PyCharm 2022.3.2 (Professional Edition)
 
 Dependencies:
+On terminal run the following command:
+pip install -r requirements.txt
+
 Playwright v1.31.1
 PyCharm Preferences --> Python Interpreter --> [+] Install Package --> Playwright
 
@@ -17,6 +20,7 @@ playwright install
 Executing tests file:
 Open project in PyCharm
 Right click on file tests_add_2products.py
+Click on Run As
 
 For executing tests with report:
 Go to PyCharm terminal and run the following command:
