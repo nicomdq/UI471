@@ -5,6 +5,9 @@ IDE used:
 PyCharm 2022.3.2 (Professional Edition)
 
 Dependencies:
+Go to PyCharm terminal and run the following command:
+pip install -r requirements.txt
+
 Playwright v1.31.1
 PyCharm Preferences --> Python Interpreter --> [+] Install Package --> Playwright
 
