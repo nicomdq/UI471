@@ -5,6 +5,7 @@ IDE used:
 PyCharm 2022.3.2 (Professional Edition)
 
 Dependencies:
+
 On terminal run the following command:
 pip install -r requirements.txt
 
@@ -18,10 +19,12 @@ Install browsers images for Playwright from the PyCharm terminal with the follow
 playwright install
 
 Executing tests file:
+
 Open project in PyCharm
 Right click on file tests_add_2products.py
-Click on Run As
+Click on Run 'tests_add_2products'
 
 For executing tests with report:
+
 Go to PyCharm terminal and run the following command:
 pytest --template=html1/index.html --report=report.html
